@@ -1,7 +1,5 @@
 import { Route, Switch, useParams } from "react-router-dom/cjs/react-router-dom.min";
 
-import Tutorails from "../Pages/tutorials";
-import Details from "../Pages/TutDetails";
 import ProtectedRoute from "./ProtectedRoute";
 import Login from "./Login";
 import Header from "../designs/Header";
